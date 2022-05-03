@@ -10,8 +10,10 @@
 <a href="https://www.linkedin.com/in/jayesh-w/">
   <img align="left" alt="Jayesh Waghmare LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
 <br/>
+<h1> About Me </h1> 
+
+
 
 Hi, I am Jayesh Waghmare. A passionate Self taught Full Stack Web Developer and Software Engineer. I am quite enthusiast while learning and developing websites. 
 
