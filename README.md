@@ -40,9 +40,9 @@ Information Technology Engineer, 2022 Graduate, Mumbai University. Currently I a
 
 <table>
   <tr>
-    <td><img src="https://picsum.photos/300/200"></td>
-    <td><img src="https://picsum.photos/300/200"></td>
-    <td><img src="https://picsum.photos/300/200"></td>
+    <td><img src="https://github.com/jayesh-w/jayesh-w/blob/master/assets/farmos.jpeg" height="200" width="300"></td>
+    <td><img src="https://github.com/jayesh-w/jayesh-w/blob/master/assets/npm.png" height="200" width="300"></td>
+    <td><img src="https://github.com/jayesh-w/jayesh-w/blob/master/assets/crops.jpeg" height="200" width="300"></td>
   </tr>
   <tr>
     <td> <h1> Farmos </h1> - Social Media Application for Farmers.<br />- React Native, Firebase </td>
